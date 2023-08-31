@@ -1,0 +1,16 @@
+	ul,li
+{
+	list-style:none;
+	display:inline-block;
+}
+h1{
+	text-align:center;
+}
+body{
+	background-image: url(sixteen-miles-out-OGND72jS-HE-unsplash.jpg);
+	background-size: cover;
+	background-color: lightgray;
+}
+*{
+	color: black;
+}
